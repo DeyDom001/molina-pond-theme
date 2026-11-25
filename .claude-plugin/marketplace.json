@@ -1,0 +1,7 @@
+{
+  "name": "molina-pond",
+  "owner": { "name": "DeyDom001" },
+  "plugins": [
+    { "name": "molina-pond-theme", "source": "./", "description": "Molina the pixel axolotl in a lively animated pond backdrop for the Claude desktop app" }
+  ]
+}
